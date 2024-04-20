@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Sarthak-xo7
 - 👀 I’m interested in improving my skills.
-- 🌱 I’m currently learning python backend development, ML, c++.
+- 🌱 I’m currently learning python Development.
 - 💞️ I’m looking to collaborate on smaller project to get learning.
-- 📫 How to reach me ...(Reach me on twitter) 
+- 📫 Reach me on twitter.
 - 😄 Pronouns: he/him
 
 <!---
